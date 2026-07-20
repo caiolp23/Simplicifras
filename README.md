@@ -5,9 +5,10 @@
 ## Funcionalidades :gear:
 
 - Disponibilizar cifras simplificadas;
-- Letras de músicas;
 - Edição de cifras;
+- Pesquisa de músicas e cifras;
 - Compartilhamento de músicas e cifras;
+- Comentários e contribuições;
 
 ---
 
