@@ -1,4 +1,15 @@
-# README
+# SIMPLICIFRAS :guitar::musical_note:
+
+---
+
+## Funcionalidades :gear:
+
+- Disponibilizar cifras simplificadas;
+- Letras de músicas;
+- Edição de cifras;
+- Compartilhamento de músicas e cifras;
+
+---
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
