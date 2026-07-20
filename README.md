@@ -33,3 +33,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+---
+
+## Autor :man_technologist:
+
+- Caio Costa Lopes
