@@ -34,6 +34,15 @@ Things you may want to cover:
 
 * ...
 
+## Contribuição :handshake:
+
+- Para ser um colaborador do projeto, siga os seguintes passos:
+  
+  1. Faça um _fork_
+  2. Crie uma _branch_
+  3. Faça _commit_ das alterações
+  4. Abra um _pull request_
+
 ---
 
 ## Autor :man_technologist:
